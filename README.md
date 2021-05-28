@@ -22,7 +22,7 @@ Follow up Questions
 ## Setup Instructions
 To make changes to my code, you can go ahead and fork my work.
 
-The following is a link where you can get the data from: https://www.kaggle.com/farhanmd29/predicting-customer-ad-clicks
+The following are links where you can get the data from: https://www.kaggle.com/farhanmd29/predicting-customer-ad-clicks and http://bit.ly/EcommerceCustomersDataset
 
 
 ## Technologies Used

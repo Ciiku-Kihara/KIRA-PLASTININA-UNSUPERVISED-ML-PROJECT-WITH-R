@@ -6,7 +6,7 @@ Kira Plastinina is a Russian brand that is sold through a defunct chain of retai
 
 My hypothetical client has created an online cryptography course and would want to advertise it on her blog. She currently targets audiences originating from various countries. In the past, she ran ads to advertise a related course on the same blog and collected data in the process
 My main task was to analyze who is most likely to click on an ad related to a cryptography course based
-on certain factors including gender, time spent on the blog site, daily internet usage, , age, country among others. I was also tasked to build a supervised ML model with R to make predictions on who is most likely to click on the ads/].
+on certain factors including gender, time spent on the blog site, daily internet usage, , age, country among others. I was also tasked to build a supervised ML model with R to make predictions on who is most likely to click on the ads.
 
 ## Experimental design
 Problem Definition

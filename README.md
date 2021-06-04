@@ -9,14 +9,14 @@ My main task was to analyze who is most likely to click on an ad related to a cr
 on certain factors including gender, time spent on the blog site, daily internet usage, , age, country among others. I was also tasked to build a supervised ML model with R to make predictions on who is most likely to click on the ads.
 
 ## Experimental design
-Problem Definition
-Data Sourcing
-Check the Data
-Perform Data Cleaning
-Perform Exploratory Data Analysis (Univariate, Bivariate & Multivariate)
-Implement the Solution
-Challenge the Solution
-Follow up Questions
+- Problem Definition
+- Data Sourcing
+- Check the Data
+- Perform Data Cleaning
+- Perform Exploratory Data Analysis (Univariate, Bivariate & Multivariate)
+- Implement the Solution
+- Challenge the Solution
+- Follow up Questions
 
 
 ## Setup Instructions
